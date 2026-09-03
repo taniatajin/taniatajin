@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <!-- ⬇️ Banner: upload the banner image (from before) to your repo/assets or via a GitHub issue, then replace the URL below -->
@@ -12,8 +13,7 @@
 
 ## 👋 About Me
 
-আমি একজন **Full Stack Developer**, যিনি ক্লিন ও স্কেলেবল ওয়েব অ্যাপ্লিকেশন তৈরি করতে ভালোবাসি। Frontend-এ সুন্দর, ইউজার-ফ্রেন্ডলি UI ডিজাইন করা থেকে শুরু করে Backend-এ শক্তিশালী ও নিরাপদ সিস্টেম তৈরি করা — পুরো প্রসেসটাই আমার কাছে আকর্ষণীয়। নতুন টেকনোলজি শেখা এবং রিয়েল-লাইফ প্রজেক্টে সেগুলো প্রয়োগ করাই আমার প্রতিদিনের লক্ষ্য।
-
+I'm a passionate Full Stack Developer who loves building clean, scalable web applications. From crafting beautiful, user-friendly interfaces on the frontend to building robust, secure systems on the backend — I enjoy every part of the process. Learning new technologies and applying them to real-world projects is what drives me every day.
 <br/>
 
 ## 🚀 Currently
@@ -80,3 +80,4 @@
 <div align="center">
   <i>Thanks for visiting my profile! ⭐ Feel free to connect.</i>
 </div>
+
