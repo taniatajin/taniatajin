@@ -50,15 +50,10 @@ I'm a passionate Full Stack Developer who loves building clean, scalable web app
 <a href="mailto:tajintania3@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-tajintania3%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-YOUR_USERNAME-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/taniatajin">
+  <img src="https://img.shields.io/badge/taniatajin-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://YOUR_PORTFOLIO_LINK">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
+
 
 </div>
 
