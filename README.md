@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ⬇️ Banner: upload the banner image (from before) to your repo/assets or via a GitHub issue, then replace the URL below -->
-<img src="./assets/banner.png" alt="Tania Tajin banner" width="100%" />
+<img src="./banner.png" alt="Tania Tajin banner" width="100%" />
 
 <h1>Tania Tajin</h1>
 <h3>Full Stack Developer</h3>
